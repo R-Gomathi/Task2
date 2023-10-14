@@ -1,0 +1,15 @@
+
+Introduction of ReactJS
+1.Javascript library which having the reusable UI[User Interface] components
+2.Open-source to develop the webpages.It is developed by Facebook
+3.In MVC[Model View Controller] architecture,the React stands for 'V' [view part]alone
+
+MVC->  Model      View      Controller
+        DB       Frontend   Backend
+        MongoDB  ReactJS    ExpressJS
+        NodeJS->Runtime environment  
+
+4.Virtual DOM which boosts up the performance of React Application
+5.It supports one-way blinding
+6.It supports JSX format
+7.It is a single page application[index.html]
